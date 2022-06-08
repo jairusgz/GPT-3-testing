@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = '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'
+openai.api_key = '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'
 
 
 def main():
